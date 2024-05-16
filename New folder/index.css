@@ -1,0 +1,106 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+html,body{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	height:100%;
+	width:100%;
+}
+
+       
+body{
+	background: url('pexels-rudolf-jakkel-418831.jpg') fixed;
+	background-size: cover;
+
+}
+img{
+	display:flex;
+	
+}
+.vrh{
+text-align: center;
+font-weight: bolder;
+font-size: 25px;
+margin-bottom: 100px;
+display: inline;
+}
+.obrazec{
+	width:35%;
+
+	box-shadow:rgba(50,50,93,0.25)0px 13px 27px -5px,
+	rgba(0,0,0,0.3)0px 8px 16px -8px;
+	padding: 2rem;
+	border-radius:1rem;
+	background:white;
+	 display: block;
+    text-align: center;
+	margin:0 auto;
+}
+
+#d{
+
+	margin-left: auto;
+}
+.rojstvo{
+	
+	margin-top: 10px;
+}
+#ime{
+	
+	margin-top: 50px;
+}
+#drzavljanstvo{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#prebivalisce{
+	margin-left:20px;
+	margin-top: 10px;
+}
+#lovski{
+	margin-top: 10px;
+	margin-right:120px;
+}
+#lovskaD{
+	margin-top: 10px;
+	margin-left:75px;
+}
+#orozniList{
+	margin-top: 10px;
+	margin-right:70px;
+}
+#kandidat{
+	margin-top: 10px;
+	font-weight: bold;
+}
+#naziv{
+	margin-top: 10px;
+	margin-right: 60px;
+}
+#bb{
+	margin-top: 10px;
+	font-weight: bold;
+}
+#imeK{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+canvas{
+	border: 2px solid black;
+}
+.podpis{
+	margin-top: 10px;
+}
+#p{
+	text-align:center;
+	margin-left:60px
+}
+#submit{
+	
+	width:100px;
+}
+#poslji{
+	margin-top:10px;
+}
+
